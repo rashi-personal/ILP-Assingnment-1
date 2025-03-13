@@ -1,0 +1,7 @@
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\bin\Debug\ilp assignment 3.exe.config
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\bin\Debug\ilp assignment 3.exe
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\bin\Debug\ilp assignment 3.pdb
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\obj\Debug\ilp assignment 3.csproj.AssemblyReference.cache
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\obj\Debug\ilp assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\obj\Debug\ilp assignment 3.exe
+C:\Users\rashi\source\repos\ilp assignment 3\ilp assignment 3\obj\Debug\ilp assignment 3.pdb
